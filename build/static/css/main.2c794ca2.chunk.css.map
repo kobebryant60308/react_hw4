@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/profile.css"],"names":[],"mappings":"AAAA,OACI,2BACJ,CACA,UACI,cAAe,CACf,gBACJ","file":"main.2c794ca2.chunk.css","sourcesContent":[".photo{\r\n    border-radius: 50%!important;\r\n}\r\n.username{\r\n    font-size: 40px;\r\n    line-height: 1.25;\r\n}"]}
